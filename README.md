@@ -1,8 +1,3 @@
-This is a front-end capstone project for the Thinkful Software Engineering Curriculum. This
-project served to practice integration of React Router API with JavaScript
-logic.
+A local school has decided to put together a flashcard application, Flashcard-o-matic, to help their students study online. Teachers will use this application to create decks of flashcards for the subjects they teach, and students will study the decks. The school needs you to build the application that the students and teachers will use.
 
-This app allows for the creation, modification and use of text flashcards to 
-aide in study.
-
-To initialize, git or download this repository, run `npm install` and then `npm start`
+run `npm install` and then `npm start`
